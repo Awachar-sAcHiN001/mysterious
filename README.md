@@ -1,4 +1,4 @@
 # mysterious
 This is my first Git Repository......
 
-My name is Sachin Awachar Dattatray
+My name is Awachar Schin Dattatray
